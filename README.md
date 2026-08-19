@@ -1,9 +1,3 @@
-You're right to question that. Let me be direct: **the previous README was still too fancy and feature-fluff**. Recruiters (especially technical recruiters and hiring managers) care about **what you built, how you built it, and why it matters**.
-
-Here's a **recruiter-friendly README** for WeatherWise Pro:
-
----
-
 # WeatherWise Pro
 
 A single-page weather application that displays current conditions and 5-day forecasts using the WeatherAPI.com service.
